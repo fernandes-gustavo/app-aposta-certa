@@ -18,8 +18,9 @@ Aplicativo Android nativo desenvolvido em **Kotlin** que gera apostas para a Meg
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ⬇️ Baixe para Testar!
 
-* **Linguagem:** Kotlin
-* **Plataforma:** Android Nativo
-* **Persistência:** SharedPreferences
+Você pode baixar o arquivo APK (Android Package) diretamente e instalar no seu celular.
+
+* **Arquivo APK:** [app-debug.apk](<https://github.com/fernandes-gustavo/app-aposta-certa/releases/download/v1.0.0/app-debug.apk>)
+* **Instruções de Instalação:** Lembre-se de permitir a instalação de aplicativos de "fontes desconhecidas" nas configurações do seu celular.
